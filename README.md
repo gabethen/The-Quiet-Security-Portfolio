@@ -1,4 +1,4 @@
-# 🛡️ The Quiet SOC
+# 🛡️ The-Quiet-Security-Portfolio
 
 Welcome to my cybersecurity portfolio.
 
