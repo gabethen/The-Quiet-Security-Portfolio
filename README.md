@@ -49,6 +49,7 @@ Status: In Progress
 
 *"Every expert was once a beginner."*
 
+---
 # Project: The Quiet SOC
 
 ## About This Project
